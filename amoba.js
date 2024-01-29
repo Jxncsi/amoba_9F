@@ -8,5 +8,4 @@ function kattintas(gomb){
     }else{
         jatekos = "x"
     }
-
 }
